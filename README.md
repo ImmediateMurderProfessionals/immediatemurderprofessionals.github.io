@@ -1,3 +1,3 @@
-BombCraft's website!
+# BombCraft's website
 
-Here we have a lot of cool shit!
+Here we have a lot of cool things!
